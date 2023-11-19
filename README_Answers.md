@@ -32,7 +32,7 @@ V roce 2018 bylo za cenu 24,24 Kč a průměrnou mzdu 33 091,45 Kč možné nako
 
 
 ## Výzkumná otázka č. 3:
-Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
+## Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
 
 *(SQL – řádek 274)*
 

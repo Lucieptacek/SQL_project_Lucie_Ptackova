@@ -4,6 +4,7 @@
 ## Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 
 *(SQL – řádek 72)*
+
 Sledované mzdy ve všech odvětví mezi lety 2006 až 2018 rostly.
 Objevily se však odvětví, kde v některých letech byl zaznamenán meziroční pokles mezd.
 Největší meziroční pokles zaznamenalo například odvětví Peněžnictví a pojišťovnictví v roce 2013 a to konkrétně pokles mzdy o 8,83%.

@@ -3,8 +3,6 @@
 ## Výzkumná otázka č.1:
 ## Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 
-*(SQL – řádek 72)*
-
 Sledované mzdy ve všech odvětví mezi lety 2006 až 2018 rostly.
 Objevily se však odvětví, kde v některých letech byl zaznamenán meziroční pokles mezd.
 Největší meziroční pokles zaznamenalo například odvětví Peněžnictví a pojišťovnictví v roce 2013 a to konkrétně pokles mzdy o 8,83%.
@@ -21,8 +19,6 @@ Nejnižším celkovým nárustem mezd za celé sledované období v letech 2006 
 ## Výzkumná otázka č.2:
 ## Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd? 
 
-*(SQL – řádek 180)*
-
 Z dostupných dat cen a mezd jsem určila, kolik je možné si zakoupit za průměrnou mzdu v prvním a posledním srovnatelném období množství kilogramů chleba a litrů mléka. 
 Pro tento výpočet jsem použila průměrnou mzdu, která byla zprůměrována ze všech odvětví v České republice a poskytuje nám tak informace o tom, 
 kolik bylo možné si v daných obdobích zakoupit kilogramů chleba a litrů mléka z průměrného vypočítaného platu.
@@ -34,8 +30,6 @@ V roce 2018 bylo za cenu 24,24 Kč a průměrnou mzdu 33 091,45 Kč možné nako
 ## Výzkumná otázka č. 3:
 ## Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
 
-*(SQL – řádek 274)*
-
 Kategorie potravin, která zdražuje nejpomaleji, ve sledovaném období v letech 2006 až 2018, je kategorie potravin Cukr krystal, jejíž cena se zvyšovala nejméně. 
  Z dostupných dat jsem zjistila, že cena této kategorie se ve sledovaném období meziročně snížila průměrně o -1,92%. 
  
@@ -45,8 +39,6 @@ Kategorie potravin, která zdražuje nejpomaleji, ve sledovaném období v letec
 ## Výzkumná otázka č.4:
 ## Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
 
-*(SQL – řádek 344)*
-
 Ve sledovaném období v letech od roku 2006 až do roku 2018, nepřesáhl meziroční nárůst potravin hranici 10 %. 
  Největší meziroční nárůst potravin byl v roce 2017, a to ve výši 9,63 %. 
  Naopak nejnižší meziroční nárust potravin byl v roce 2009, který byl nižší o 6,42%.
@@ -54,10 +46,9 @@ Ve sledovaném období v letech od roku 2006 až do roku 2018, nepřesáhl mezir
  Naopak v roce 2009 byl nejnižší rozdíl mezi nárustem cen a mezd, který se snížil o 9,49%.
  V tomto roce se ceny potravin oproti roku předchozímu zvýšily o 5,1 %, zatímco mzdy poklesly o -1,56 %.
 
+
 ## Výzkumná otázka č.5:
 ## Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
-
-*(SQL – řádek 437)*
 
 Z výsledků analýzy průměrného růstu cen potravin, mezd a HDP v letech 2006–2018 není patrné, že by byla opakovatelnost nebo spojitost. 
 Za výraznější růst považuji růst vyšší jak 5%. K této situaci došlo celkem 3x. 
